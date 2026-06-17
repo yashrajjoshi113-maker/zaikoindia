@@ -2,13 +2,12 @@
   "name": "temp-next",
   "version": "0.1.0",
   "private": true,
- "scripts": {
-  "dev": "next dev",
-  "build": "prisma generate && next build",
-  "postinstall": "prisma generate",
-  "start": "next start",
-  "lint": "eslint"
-}
+  "scripts": {
+    "dev": "next dev",
+    "build": "prisma generate && next build",
+    "postinstall": "prisma generate",
+    "start": "next start",
+    "lint": "eslint"
   },
   "dependencies": {
     "@libsql/client": "^0.17.4",
