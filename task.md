@@ -1,0 +1,24 @@
+- `[x]` Setup branch `antigravity-upgrade`
+- `[x]` Step 1: Framework Setup & Migration
+  - `[x]` Initialize Next.js project
+  - `[x]` Clean up default pages and integrate global styles
+  - `[x]` Port the existing index.html features into Next.js components
+- `[x]` Step 2: Database Initialization
+  - `[x]` Initialize Prisma schema
+  - `[x]` Create seed data for restaurants, menus, and users
+- `[x]` Step 3: API & Auth Implementation
+  - `[x]` Build JWT-based authentication API routes
+  - `[x]` Implement restaurant, menu, and coupon routes
+- `[ ]` Step 4: Anti-Gravity Hero Section
+  - `[ ]` Install Matter.js physics engine
+  - `[ ]` Build premium interactive physics canvas hero component
+- `[ ]` Step 5: Advanced UI & Dashboards
+  - `[ ]` Build Customer Dashboard
+  - `[ ]` Build Restaurant Dashboard
+  - `[ ]` Build Rider Dashboard
+  - `[ ]` Build Admin Dashboard
+- `[ ]` Step 6: Maps, Payments & Notifications
+  - `[ ]` Integrate Google Maps markers and geolocator
+  - `[ ]` Build simulated Razorpay checkout with webhook processor
+  - `[ ]` Implement real-time order tracking using SSE
+- `[ ]` Step 7: Final verification and walkthrough documentation
